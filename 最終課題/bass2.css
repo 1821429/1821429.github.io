@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+header{
+    color: cornsilk;
+    background-color: coral;
+    
+    height: 150px;
+    
+    
+    }
+    
+header>p{
+color: darkgreen;
+font-size: 15px;
+
+margin-top: 0px;
+border-right: 7px;
+}
+
+
+
+h1{
+
+    font-size: 1.5em;
+    
+    }
+    
+    
+    h2{
+    
+        font-size: 1.5em;
+        
+        }
+    
+        h3{
+    
+            font-size: 1.5em;
+        }
+        h4{
+    
+            font-size: 1.5em;
+            
+            }
+
+
+
+            h5{
+
+                font-size: 1.5em;
+                
+                }
+                
+                
+                h6{
+                
+                    font-size: 1.5em;
+                    
+                    }
+                
+                    h7{
+                
+                        font-size: 1.5em;
+                    }
